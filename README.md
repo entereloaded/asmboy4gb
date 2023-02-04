@@ -1,4 +1,4 @@
-# asmboy4GB
+# asmboy4GB by andyyfreak
 This gameboy program written in assembler enables you to write your own gameboy game in assembler **on the gameboy**.
 
 > **_NOTE:_**  The code is experimental and is not meant for production use. Whatever that would mean for a software for writing gameboy games on a gameboy
